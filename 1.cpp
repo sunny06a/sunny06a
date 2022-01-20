@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 int main()
-{
+{  
     vector<int> v;
     int n;
     cin>>n;
@@ -17,6 +17,7 @@ int main()
     {
         cout<<c;
     }
+cout<<n;
     return 0;
 
 }
